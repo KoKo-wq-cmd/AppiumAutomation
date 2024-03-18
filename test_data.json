@@ -1,0 +1,17 @@
+[
+    {
+        "ble_start_conn": 72059.3,
+        "ble_conn_end_time": 72065.721,
+        "ble_start_to_connect_duration": 6.42
+    },
+    {
+        "ble_start_conn": 72059.3,
+        "ble_conn_end_time": 72065.721,
+        "ble_start_to_connect_duration": 6.42
+    },
+    {
+        "ble_start_conn": 72059.3,
+        "ble_conn_end_time": 72065.721,
+        "ble_start_to_connect_duration": 6.42
+    }
+]
